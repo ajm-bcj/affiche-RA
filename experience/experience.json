@@ -1,15 +1,15 @@
 {
   "$schema": "../core/schema/experience.schema.json",
-  "title": "Affiche augmentée — Cube 3D",
+  "title": "Affiche augmentée — Poussins en colère",
   "author": "DNMade 2 Numérique",
   "onLost": "hide",
   "theme": {
-    "color": "#ff3b30",
-    "textColor": "#ffffff",
+    "color": "#fdd416",
+    "textColor": "#1a1a1a",
     "font": "system-ui"
   },
   "behaviors": [
-    "cube-rouge"
+    "poussin"
   ],
   "bricks": []
 }
